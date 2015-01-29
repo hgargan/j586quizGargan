@@ -1,0 +1,2 @@
+Q:What is a variable? 
+A:A variable is any piece of data -- strings, numbers, or even lists of variables, called arrays —-  used in programming that is assigned by the programmer to be stored by the machine and called up according to certain instructions outlined in the code.
